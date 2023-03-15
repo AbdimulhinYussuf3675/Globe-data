@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import TravelExploreIcon from '@mui/icons-material/TravelExplore';
+import HomeIcon from '@mui/icons-material/Home';
+import SettingsIcon from '@mui/icons-material/Settings';
 import { useSelector, useDispatch } from 'react-redux';
 import getCountries from 'features/FetchAPI';
 import CountriesList from '../CountriesList';
@@ -30,7 +31,7 @@ const Homepage = () => {
     <div>
       <header className="home-header">
         <div className="logo">
-          <TravelExploreIcon className="svg_icons" />
+          <HomeIcon className="svg_icons" />
         </div>
         <div className="search">
           {' '}
@@ -41,6 +42,9 @@ const Homepage = () => {
             value={searchItem}
             onChange={handleSearch}
           />
+        </div>
+        <div className="logo">
+          <SettingsIcon className="svg_icons" />
         </div>
       </header>
 
