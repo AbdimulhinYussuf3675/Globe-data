@@ -51,7 +51,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo]().
+- [Live Demo](https://adam-census.onrender.com/)
+
+- [Project Presentation](https://www.loom.com/share/495c60e80cbf433a81e7bf0b095a516c).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
