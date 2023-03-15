@@ -165,6 +165,8 @@ if you like the project, give it a star ⭐️
 
 I would like to thank [Microverse](https://www.microverse.org/) for the oppotunity.
 
+I would like to thank [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for the app design.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
