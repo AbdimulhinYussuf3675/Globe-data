@@ -1,9 +1,9 @@
 import { configureStore } from '@reduxjs/toolkit';
-import countrieSlice from 'features/countries/countrieSlice';
+import countries from 'features/countries/countrieSlice';
 
 const store = configureStore({
   reducer: {
-    countrieSlice,
+    countries,
   },
 });
 
