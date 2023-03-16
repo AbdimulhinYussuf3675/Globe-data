@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="logo.png" alt="logo" width="140"  height="auto" />
+  <img src="Screenshot_from_2023-02-12_10-59-25-removebg-preview.png" alt="logo" width="140"  height="auto" />
   <br/>
 
 </div>
@@ -27,9 +27,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖<a name="about-project">Space Travellers Hub</a>
+# 📖<a name="about-project">Global Population Data</a>
 
-> "Space Travellers Hub", is a web application using real live data from the SpaceX API. The website allows users to book rockets and join selected space missions.
+> "Global Population Data" is a web-app that allows users to have access to population data of countries across the world.
 
 <details>
   <summary>Client</summary>
@@ -43,7 +43,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Fetch real live data from the SpaceX API**
+- **Fetch real live data from the Countries API**
 - **SPA**
 - **Redux State Management**
 
@@ -51,7 +51,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](https://adamspace.onrender.com/).
+- [Live Demo](https://adam-census.onrender.com/)
+
+- [Project Presentation](https://www.loom.com/share/495c60e80cbf433a81e7bf0b095a516c).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,8 +73,8 @@ clone this repository to your disired folder and using the above command
 
 ```sh
     cd my-folder
-    git clone https://github.com/AbdimulhinYussuf3675/Space_Travelers--Hub.git
-    cd Space_Travelers--Hub
+    git clone https://github.com/AbdimulhinYussuf3675/React-capstone_project.git
+    cd React-capstone_project
 ```
 
 Install dependencies
@@ -162,6 +164,8 @@ if you like the project, give it a star ⭐️
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank [Microverse](https://www.microverse.org/) for the oppotunity.
+
+I would like to thank [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for the app design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
