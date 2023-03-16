@@ -65,6 +65,7 @@ p {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
+  padding-top: 100px;
 }
 
 .card-container .country {
